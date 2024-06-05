@@ -1,0 +1,11 @@
+/* #mapYo {
+    height: 400px;
+    width: 350px;
+    border: 1px solid black;
+  }
+ */
+#mapTerremotos {
+    height: 100vh;
+    /*width: 350px;*/
+    border: 1px solid black;
+}
